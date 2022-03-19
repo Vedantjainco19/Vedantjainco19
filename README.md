@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vedantjainco19
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning c++ and python
-- 💞️ I’m looking to collaborate on ... 
+- 👀 interested in cyber security
+- 🌱 currently learning c++ and python
+- 💞️ looking to collaborate on ... 
 - 📫 you can mailme to vedantjainco19@acropolis.in
 
 <!---
